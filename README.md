@@ -76,15 +76,20 @@ Tracked accuracy/loss curves
 
 Evaluated with confusion matrix & classification report
 
+
 📊 Results
 
 Test Accuracy: 43%
 
-Confusion Matrix:
+Here’s a sample spectrogram from the dataset:  
+![Spectrogram](images/spectrogram.png)
 
-Sample Spectrogram:
+Training accuracy vs validation accuracy:  
+![Accuracy Curve](images/accuracy_curve.png)
 
-Accuracy Curve:
+Confusion Matrix:  
+![Confusion Matrix](images/confusion_matrix.png)
+
 
 🚀 How to Run
 
